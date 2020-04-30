@@ -7,3 +7,4 @@
 
 f1 race
 f2 race
+f3 race
